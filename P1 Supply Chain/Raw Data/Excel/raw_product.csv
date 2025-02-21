@@ -1,0 +1,51 @@
+raw_product_id, product_name, category_name, raw_price VALUES
+6001, High-Performance CPU, CPU,116.67
+6002, Gaming Graphics Card, GPU,233.33
+6003, Workstation Motherboard, Motherboard,66.67
+6004, DDR5 RAM Module, Memory,30
+6005, 1TB NVMe SSD, Storage,50
+6006, Modular Power Supply, Power Supply,45
+6007, Compact Cooling Fan, Cooling,8.75
+6008, Industrial Router, Networking,62.5
+6009, 4K Ultra HD Monitor, Displays,133.33
+6010, Ergonomic Mouse, Peripherals,12.5
+6011, Energy-Efficient PSU, Power Supply,42.5
+6012, Liquid Cooling System, Cooling,62.5
+6013, 3D Sensor Module, Components,100
+6014, AI Accelerator Chip, Chipset,200
+6015, Fiber Optic Cable, Networking,6.25
+6016, 500GB SATA SSD, Storage,25
+6017, 1080p Webcam, Peripherals,18.75
+6018, Server-Grade GPU, GPU,300
+6019, Compact Desktop Case, Cases,22.5
+6020, Wireless Keyboard, Peripherals,15
+6021, AI Training Processor, CPU,112.5
+6022, Compact Motherboard, Motherboard,40
+6023, Energy-Efficient GPU, GPU,137.5
+6024, Industrial Chipset, Chipset,80
+6025, 512GB NVMe SSD, Storage,35
+6026, 1TB HDD, Storage,20
+6027, High-Speed RAM Module, Memory,22.5
+6028, Silent Power Supply Unit, Power Supply,30
+6029, RGB Cooling Fan, Cooling,8.75
+6030, Advanced Liquid Cooler, Cooling,55
+6031, Dual-Band Wi-Fi Adapter, Networking,15
+6032, Multi-Mode Router, Networking,45
+6033, Curved Gaming Monitor, Displays,112.5
+6034, Ergonomic Keyboard, Peripherals,17.5
+6035, Programmable Mouse, Peripherals,13.75
+6036, RAID Storage Array, Storage,500
+6037, Modular Server Rack, Server Equipment,275
+6038, HDMI Cable, Peripherals,3.75
+6039, Portable Battery Pack, Power Supply,22.5
+6040, 3D Printer Filament, Peripherals,10
+6041, Quantum Processor, CPU,300
+6042, AI-Powered GPU, GPU,350
+6043, Advanced Gaming Router, Networking,150
+6044, VR Headset, Peripherals,250
+6045, Customizable Gaming Chair, Furniture,180
+6046, Portable SSD, Storage,45
+6047, High-End Sound Card, Audio,125
+6048, 4K Projector, Displays,400
+6049, Streaming Microphone, Audio,100
+6050, Home Security Camera, Networking,85

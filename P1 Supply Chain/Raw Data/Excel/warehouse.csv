@@ -1,0 +1,11 @@
+ warehouse_id, warehouse_name,City,Country, type, capacity
+WH01,Warehouse A,Berlin,Germany,finished_goods,5000
+WH02,Warehouse B,Munich,Germany,raw_material,8000
+WH03,Warehouse C,Hamburg,Germany,finished_goods,3000
+WH04,Warehouse D,Frankfurt,Germany,raw_material,12000
+WH05,Warehouse E,Düsseldorf,Germany,finished_goods,4500
+WH06,Warehouse F,Vienna,Austria,raw_material,7000
+WH07,Warehouse G,Zurich,Switzerland,finished_goods,6500
+WH08,Warehouse H,Amsterdam,Netherlands,raw_material,9000
+WH09,Warehouse I,Brussels,Belgium,finished_goods,5500
+WH10,Warehouse J,Copenhagen,Denmark,raw_material,10000

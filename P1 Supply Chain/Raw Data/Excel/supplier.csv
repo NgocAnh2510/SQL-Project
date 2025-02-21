@@ -1,0 +1,21 @@
+ent, supplier_name, address, credit_terms, priority_level
+SL01,Advanced Micro Supplies,San Jose USA,Net 30,1
+SL02,PixelWorks,Tokyo Japan,Net 30,2
+SL03,PrimeTech Components,New York USA,Net 45,1
+SL04,MemoryCorp,Seoul South Korea,Net 60,3
+SL05,DataSafe Innovations,Berlin Germany,Net 30,2
+SL06,EcoEnergy Supplies,Rio de Janeiro Brazil,Net 60,3
+SL07,AquaChill Technologies,Austin USA,Net 30,1
+SL08,FutureVision Systems,Osaka Japan,Net 45,2
+SL09,NextGen AI Tech,Shenzhen China,Net 30,3
+SL10,OpticLine Co.,Munich Germany,Net 15,2
+SL11,StorageKing Ltd.,London United Kingdom,Net 45,1
+SL12,TechBase Components,Paris France,Net 45,3
+SL13,GreenGraphics Ltd.,Berlin Germany,Net 60,1
+SL14,ClassicStorage Ltd.,Toronto Canada,Net 30,3
+SL15,SpeedyMemory Inc.,San Jose USA,Net 45,1
+SL16,ProDisplay Technologies,Melbourne Australia,Net 45,2
+SL17,ComfortInput Devices,Seoul South Korea,Net 60,3
+SL18,PrecisionControl Ltd.,London United Kingdom,Net 30,1
+SL19,EnterpriseStorage Inc.,New York USA,Net 45,3
+SL20,MakerTech Supplies,Berlin Germany,Net 30,2
