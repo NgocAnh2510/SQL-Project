@@ -6,7 +6,7 @@ select COALESCE(
     order by salary desc
     limit 1 offset 1), 
 null) as SecondHighestSalary 
-
+```
 **2. Use max() and case when**
 ```sql
 SELECT CASE 
@@ -17,3 +17,4 @@ SELECT CASE
         ELSE NULL 
        END AS SecondHighestSalary
 FROM Employee;
+```
